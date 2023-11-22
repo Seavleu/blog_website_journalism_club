@@ -17,7 +17,7 @@ export default function manifest() {
           src: '/favicon-16x16.png',
           sizes: '16x16',
           type: 'image/png',
-        },
+      },
             {
           src: '/android-chrome-192x192.png',
           sizes: '192x192',
