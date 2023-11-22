@@ -8,7 +8,7 @@ const siteMetadata = {
     theme: 'system', // system, dark or light
     siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
     siteLogo: '/logo.png',
-    socialBanner: '/social-banner.png', // add social banner in the public folder
+    socialBanner: '/public/social-banner.png', // add social banner in the public folder
     email: 'journalism@gmail.com', 
     // github: 'https://github.com/codebucks27',
     twitter: '/',
