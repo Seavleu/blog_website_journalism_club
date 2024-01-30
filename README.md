@@ -5,35 +5,26 @@
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
 For Demo checkout following links👇: <br />
-[Nextjs Personal Blog Website](https://create-blog-with-nextjs.vercel.app/) <br />
-
-Starter Code Files👇: <br />
-[Nextjs Personal Blog Website Starter Code](https://github.com/codebucks27/Nextjs-contentlayer-blog) <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/1QGLHOaRLwM <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/1QGLHOaRLwM?style=social)](https://youtu.be/1QGLHOaRLwM)<br />
-
-Checkout My Personal blog: [DevDreaming](https://devdreaming.com/)<br />
-
-
-### ⭐DO NOT FORGET TO STAR THIS REPO⭐
+[Journalism Club Blog](https://blog-website-journalism-club.vercel.app/) <br />
 
 ### Images of The Portfolio Website:
 
 #### Home
-![Nextjs Personal Blog Website](https://github.com/codebucks27/Nextjs-contentlayer-blog/blob/main/project%20images/Home-Big.png?raw=true)
+![image](https://github.com/Seavleu/blog_website_journalism_club/assets/86590058/66b75598-6d6c-4b4a-8d4f-f6bf909ffc54)
+![image](https://github.com/Seavleu/blog_website_journalism_club/assets/86590058/d17025f7-9cb9-49b0-8983-5de5281ed391)
+![image](https://github.com/Seavleu/blog_website_journalism_club/assets/86590058/04c77bbd-ae7c-48f9-818c-11ff73f918c4)
+![image](https://github.com/Seavleu/blog_website_journalism_club/assets/86590058/d7b0340e-4e0d-4538-b072-6025aa83368c)
+
 
 #### About
-![Nextjs Personal Blog Website About Page](https://github.com/codebucks27/Nextjs-contentlayer-blog/blob/main/project%20images/About-Big.png?raw=true)
+![image](https://github.com/Seavleu/blog_website_journalism_club/assets/86590058/75bdb114-e565-4540-87ce-c6aab40b6cb8)
+
 
 #### Contact
-![Next.js Personal Blog Website Contact Page](https://github.com/codebucks27/Nextjs-contentlayer-blog/blob/main/project%20images/Cotnact-Big.png?raw=true)
+![image](https://github.com/Seavleu/blog_website_journalism_club/assets/86590058/5dfddc22-8b81-4151-815f-0e26201dda92)
 
-For more Images please check the [project images](https://github.com/codebucks27/Nextjs-contentlayer-blog/tree/main/project%20images) folder from this repo or check the demo link. 
 
 ### Resources Used in This Project
-
 - Character image in the About page created by using [Bing Search[(https://www.bing.com/).
 - Lottie animation in the contact page: [from here](https://lottiefiles.com/animations/sloth-meditate-SzNofNFhYY)
 - Fonts from https://fonts.google.com/ <br />
@@ -86,4 +77,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
